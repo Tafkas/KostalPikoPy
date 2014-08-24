@@ -1,0 +1,4 @@
+httpretty
+httplib2
+lxml
+setuptools

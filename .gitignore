@@ -1,0 +1,23 @@
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+pip-log.txt
+.coverage
+.tox
+nosetests.xml
+*.mo
+.mr.developer.cfg
+.project
+.pydevproject
+*/.idea/workspace.xml */.idea/tasks.xml
