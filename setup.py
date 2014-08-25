@@ -4,14 +4,14 @@
 from setuptools import setup, find_packages
 
 
-setup(name='KostalPikoPy',
+setup(name='pikopy',
       version='0.0.1',
       author='Christian Stade-Schuldt',
       author_email='stadeschuldt@gmail.com',
       url='https://github.com/Tafkas/KostalPikoPy',
       download_url='https://github.com/Tafkas/KostalPikoPy',
-      description='A package for working with a PIKO Inverter from KOSTAL',
-      long_description='A package for working with a PIKO Inverter from KOSTAL',
+      description='A package for working with a Piko Inverter from Kostal',
+      long_description='A package for working with a Piko Inverter from Kostal',
 
       packages=find_packages(),
       include_package_data=True,

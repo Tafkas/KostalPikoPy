@@ -1,8 +1,8 @@
 # PikoPy
-This package is for working with a PIKO Inverter from [KOSTAL](http://www.kostal-solar-electric.com/)
+This package is for working with a Piko Inverter from [Kostal](http://www.kostal-solar-electric.com/)
 
 ## Where has it been tested?
-PikiPy has been tested with a Kostal Piko 5.5. It should work with other Kostal inverters as well since they provide the same interface.
+PikoPy has been tested with a Kostal Piko 5.5. It should work with other Kostal inverters as well since they provide the same interface.
 
 ## quirements
  * Python
@@ -12,11 +12,11 @@ PikiPy has been tested with a Kostal Piko 5.5. It should work with other Kostal 
  
 ## Installing
 ```bash
-$ pip install ...
+$ pip install pikopy
 ```
 
 ## Usage
-    import piko
+    import pikopy
     
     #create a new piko instance
     p = Piko('host', 'username', 'password')
