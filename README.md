@@ -12,7 +12,7 @@ PikiPy has been tested with a Kostal Piko 5.5. It should work with other Kostal 
  
 ## Installing
 ```bash
-$ pip install gscholar
+$ pip install ...
 ```
 
 ## Usage
