@@ -37,4 +37,4 @@ setup(name='KostalPikoPy',
 
       # setup_requires = ['python-stdeb', 'fakeroot', 'python-all'],
       install_requires=['setuptools'],
-)
+      )
